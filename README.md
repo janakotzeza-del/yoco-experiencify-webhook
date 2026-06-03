@@ -4,8 +4,8 @@ Automatically adds students to your Xperiencify course when they pay via Yoco.
 
 ## Setup
 1. Add your keys in Vercel Environment Variables:
-   - `e75e6e37d57bb510d1144bfadb5e6f2cf58238ca`
-   - `1009590` (optional)
+   - `XP_API_KEY`
+   - `DEFAULT_COURSE_ID` (optional)
 
 2. Deploy on Vercel.
 
